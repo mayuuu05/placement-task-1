@@ -1,10 +1,6 @@
 # placement_task1
 
-# Todo App
-
-
-
-# Flutter Todo App 📝
+# Todo App 📝
 
 ## Overview 🌟
 
